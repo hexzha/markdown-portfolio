@@ -1,1 +1,1 @@
-[hexzha](github.com/hexzha)
+[hexzha](https://github.com/hexzha)
